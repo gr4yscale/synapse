@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/synapse/!svn/ver/1/cake/tests/test_app/locale/rule_1_po/LC_MESSAGES
+END
+default.po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/cake/tests/test_app/locale/rule_1_po/LC_MESSAGES/default.po
+END
+._core.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/cake/tests/test_app/locale/rule_1_po/LC_MESSAGES/._core.po
+END
+core.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/cake/tests/test_app/locale/rule_1_po/LC_MESSAGES/core.po
+END
+._default.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/synapse/!svn/ver/1/cake/tests/test_app/locale/rule_1_po/LC_MESSAGES/._default.po
+END

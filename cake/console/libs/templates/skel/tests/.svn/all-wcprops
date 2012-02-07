@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/tests
+END
+._fixtures
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/tests/._fixtures
+END
+._cases
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/tests/._cases
+END
+._groups
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/tests/._groups
+END

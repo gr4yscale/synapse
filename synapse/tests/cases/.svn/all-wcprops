@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/synapse/!svn/ver/1/www/tests/cases
+END
+._behaviors
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/www/tests/cases/._behaviors
+END
+._helpers
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/www/tests/cases/._helpers
+END
+._models
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/synapse/!svn/ver/1/www/tests/cases/._models
+END
+._components
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/synapse/!svn/ver/1/www/tests/cases/._components
+END
+._controllers
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/synapse/!svn/ver/1/www/tests/cases/._controllers
+END

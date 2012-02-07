@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/synapse/!svn/ver/1/cake/tests/groups
+END
+._configure.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/synapse/!svn/ver/1/cake/tests/groups/._configure.group.php
+END
+acl.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/synapse/!svn/ver/1/cake/tests/groups/acl.group.php
+END
+no_database.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/synapse/!svn/ver/1/cake/tests/groups/no_database.group.php
+END
+model.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/cake/tests/groups/model.group.php
+END
+helpers.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/1/cake/tests/groups/helpers.group.php
+END
+._components.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/tests/groups/._components.group.php
+END
+cache.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/cake/tests/groups/cache.group.php
+END
+._socket.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/synapse/!svn/ver/1/cake/tests/groups/._socket.group.php
+END
+lib.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/synapse/!svn/ver/1/cake/tests/groups/lib.group.php
+END
+._routing_system.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/synapse/!svn/ver/1/cake/tests/groups/._routing_system.group.php
+END
+lib_controller.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/tests/groups/lib_controller.group.php
+END
+view.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/synapse/!svn/ver/1/cake/tests/groups/view.group.php
+END
+._acl.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/cake/tests/groups/._acl.group.php
+END
+._model.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/1/cake/tests/groups/._model.group.php
+END
+._no_database.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/cake/tests/groups/._no_database.group.php
+END
+._helpers.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/cake/tests/groups/._helpers.group.php
+END
+._cache.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/1/cake/tests/groups/._cache.group.php
+END
+configure.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/cake/tests/groups/configure.group.php
+END
+._lib.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/cake/tests/groups/._lib.group.php
+END
+components.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/cake/tests/groups/components.group.php
+END
+._lib_controller.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/synapse/!svn/ver/1/cake/tests/groups/._lib_controller.group.php
+END
+._view.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/synapse/!svn/ver/1/cake/tests/groups/._view.group.php
+END
+socket.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/synapse/!svn/ver/1/cake/tests/groups/socket.group.php
+END
+routing_system.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/tests/groups/routing_system.group.php
+END

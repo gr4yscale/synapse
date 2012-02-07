@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/synapse/!svn/ver/1/cake/console/libs/templates/skel
+END
+._tests
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._tests
+END
+._app_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._app_helper.php
+END
+._config
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._config
+END
+._controllers
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._controllers
+END
+app_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/app_model.php
+END
+._app_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._app_controller.php
+END
+._.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/index.php
+END
+._vendors
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._vendors
+END
+._plugins
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._plugins
+END
+._webroot
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._webroot
+END
+._models
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._models
+END
+._app_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._app_model.php
+END
+app_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/app_helper.php
+END
+app_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/app_controller.php
+END
+._views
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._views
+END
+._index.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._index.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/.htaccess
+END
+._locale
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._locale
+END
+._tmp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/._tmp
+END

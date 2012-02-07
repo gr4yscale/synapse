@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/synapse/!svn/ver/1/www/config/sql
+END
+._db_acl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/www/config/sql/._db_acl.sql
+END
+._sessions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/synapse/!svn/ver/1/www/config/sql/._sessions.sql
+END
+._i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/www/config/sql/._i18n.php
+END
+db_acl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/www/config/sql/db_acl.sql
+END
+sessions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/www/config/sql/sessions.sql
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/synapse/!svn/ver/1/www/config/sql/i18n.php
+END
+._db_acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/www/config/sql/._db_acl.php
+END
+._sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/synapse/!svn/ver/1/www/config/sql/._sessions.php
+END
+._i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/www/config/sql/._i18n.sql
+END
+db_acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/www/config/sql/db_acl.php
+END
+sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/www/config/sql/sessions.php
+END
+i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/synapse/!svn/ver/1/www/config/sql/i18n.sql
+END

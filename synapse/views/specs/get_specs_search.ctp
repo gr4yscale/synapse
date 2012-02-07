@@ -1,0 +1,1 @@
+<?php echo '{"specs":'.$javascript->Object($specs).'}'; ?>

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/synapse/!svn/ver/19/www/views
+END
+._helpers
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/synapse/!svn/ver/1/www/views/._helpers
+END
+._products
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/synapse/!svn/ver/1/www/views/._products
+END
+._scaffolds
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/synapse/!svn/ver/1/www/views/._scaffolds
+END
+._product_categories
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/synapse/!svn/ver/1/www/views/._product_categories
+END
+._attachments
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/synapse/!svn/ver/1/www/views/._attachments
+END
+._errors
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/synapse/!svn/ver/1/www/views/._errors
+END
+._elements
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/synapse/!svn/ver/1/www/views/._elements
+END
+._specs
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/synapse/!svn/ver/1/www/views/._specs
+END
+._product_tags
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/synapse/!svn/ver/1/www/views/._product_tags
+END
+._pages
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/synapse/!svn/ver/1/www/views/._pages
+END
+._layouts
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/synapse/!svn/ver/1/www/views/._layouts
+END
+._.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/synapse/!svn/ver/1/www/views/._.DS_Store
+END

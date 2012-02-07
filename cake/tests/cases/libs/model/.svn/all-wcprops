@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/cake/tests/cases/libs/model
+END
+._behaviors
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/._behaviors
+END
+._behavior.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/._behavior.test.php
+END
+._model.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/._model.test.php
+END
+._schema.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/._schema.test.php
+END
+behavior.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/behavior.test.php
+END
+model.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/model.test.php
+END
+schema.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/schema.test.php
+END
+._db_acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/._db_acl.test.php
+END
+._models.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/._models.php
+END
+db_acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/db_acl.test.php
+END
+models.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/models.php
+END
+._datasources
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/._datasources
+END

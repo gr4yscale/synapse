@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/synapse/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/themed/test_plugin_theme
+END
+._test_plugin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/synapse/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/themed/test_plugin_theme/._test_plugin
+END
+._layouts
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/synapse/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/themed/test_plugin_theme/._layouts
+END

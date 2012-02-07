@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/synapse/!svn/ver/1/www/views/products
+END
+get_all_products.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/synapse/!svn/ver/1/www/views/products/get_all_products.ctp
+END
+._create_group.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/www/views/products/._create_group.ctp
+END
+add_new_product.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/www/views/products/add_new_product.ctp
+END
+._get_primary_thumbnail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/synapse/!svn/ver/1/www/views/products/._get_primary_thumbnail.ctp
+END
+get_product_search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/www/views/products/get_product_search.ctp
+END
+._get_products_by_category.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/www/views/products/._get_products_by_category.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/synapse/!svn/ver/35/www/views/products/index.ctp
+END
+get_product_nodes.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/www/views/products/get_product_nodes.ctp
+END
+._get_all_products.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/www/views/products/._get_all_products.ctp
+END
+._add_new_product.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/www/views/products/._add_new_product.ctp
+END
+create_group.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/1/www/views/products/create_group.ctp
+END
+._get_product_search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/www/views/products/._get_product_search.ctp
+END
+._index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/synapse/!svn/ver/1/www/views/products/._index.ctp
+END
+._get_product_nodes.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/www/views/products/._get_product_nodes.ctp
+END
+get_primary_thumbnail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/synapse/!svn/ver/1/www/views/products/get_primary_thumbnail.ctp
+END
+get_products_by_category.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/www/views/products/get_products_by_category.ctp
+END

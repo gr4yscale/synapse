@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter
+END
+._NumericFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/._NumericFilter.js
+END
+BooleanFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/BooleanFilter.js
+END
+Filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/Filter.js
+END
+NumericFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/NumericFilter.js
+END
+._StringFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/._StringFilter.js
+END
+StringFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/StringFilter.js
+END
+._ListFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/._ListFilter.js
+END
+._DateFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/._DateFilter.js
+END
+ListFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/ListFilter.js
+END
+._BooleanFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/._BooleanFilter.js
+END
+._Filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/._Filter.js
+END
+DateFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/examples/grid-filtering/grid/filter/DateFilter.js
+END

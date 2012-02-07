@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Pasiuk;Mike
+FN:Mike Pasiuk
+ORG:Northern Tool & Equipment Co.
+TITLE:Product Manager
+NOTE;ENCODING=QUOTED-PRINTABLE:=0D=0A
+TEL;WORK;VOICE:(952) 895-6859
+TEL;HOME;VOICE:(952) 431-1504
+TEL;CELL;VOICE:(952) 594-5047
+TEL;WORK;FAX:(952) 808-6620
+ADR;WORK:;;2800 Southcross Drive West P.O. Box 1219;Burnsville;MN;55337;United States of America
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:2800 Southcross Drive West P.O. Box 1219=0D=0ABurnsville, MN 55337=0D=0AUnit=
+ed States of America
+ADR;HOME:;;8062 Lower 147 Street West;Apple Valley;MN;55124;United States of America
+LABEL;HOME;ENCODING=QUOTED-PRINTABLE:8062 Lower 147 Street West=0D=0AApple Valley, MN 55124=0D=0AUnited States of=
+ America
+ADR;POSTAL:;;P.O. Box 240701;Apple Valley;MN;55124;United States of America
+LABEL;POSTAL;ENCODING=QUOTED-PRINTABLE:P.O. Box 240701=0D=0AApple Valley, MN 55124=0D=0AUnited States of America
+URL;WORK:http://www.NorthernTool.com
+EMAIL;PREF;INTERNET:Mike.Pasiuk@NorthernTool.com
+REV:20081031T190633Z
+END:VCARD

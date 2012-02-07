@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/synapse/!svn/ver/1/www/views/attachments
+END
+assign_primary_thumbnail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/www/views/attachments/assign_primary_thumbnail.ctp
+END
+._test.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/synapse/!svn/ver/1/www/views/attachments/._test.ctp
+END
+._upload.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/synapse/!svn/ver/1/www/views/attachments/._upload.ctp
+END
+._assign_to_product.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/www/views/attachments/._assign_to_product.ctp
+END
+._assign_attachment_category.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/views/attachments/._assign_attachment_category.ctp
+END
+._assign_primary_thumbnail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/views/attachments/._assign_primary_thumbnail.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/synapse/!svn/ver/1/www/views/attachments/index.ctp
+END
+delete_product_attachment.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/views/attachments/delete_product_attachment.ctp
+END
+get_product_attachments.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/www/views/attachments/get_product_attachments.ctp
+END
+test.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/synapse/!svn/ver/1/www/views/attachments/test.ctp
+END
+._index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/www/views/attachments/._index.ctp
+END
+upload.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/synapse/!svn/ver/1/www/views/attachments/upload.ctp
+END
+assign_to_product.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/www/views/attachments/assign_to_product.ctp
+END
+._delete_product_attachment.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/views/attachments/._delete_product_attachment.ctp
+END
+._get_product_attachments.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/views/attachments/._get_product_attachments.ctp
+END
+assign_attachment_category.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/views/attachments/assign_attachment_category.ctp
+END

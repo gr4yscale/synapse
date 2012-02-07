@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/synapse/!svn/ver/1/www/views/product_categories
+END
+._assign_product_category.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/views/product_categories/._assign_product_category.ctp
+END
+._unassign_product_category.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/synapse/!svn/ver/1/www/views/product_categories/._unassign_product_category.ctp
+END
+assign_product_category.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/views/product_categories/assign_product_category.ctp
+END
+._index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/www/views/product_categories/._index.ctp
+END
+unassign_product_category.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/views/product_categories/unassign_product_category.ctp
+END
+._getnodes.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/www/views/product_categories/._getnodes.ctp
+END
+._get_product_cats.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/views/product_categories/._get_product_cats.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/www/views/product_categories/index.ctp
+END
+getnodes.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/www/views/product_categories/getnodes.ctp
+END
+get_product_cats.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/www/views/product_categories/get_product_cats.ctp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/synapse/!svn/ver/1/www/views/quotes
+END
+._get_quotes_by_vendor.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/www/views/quotes/._get_quotes_by_vendor.ctp
+END
+get_quotes_by_vendor.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/www/views/quotes/get_quotes_by_vendor.ctp
+END

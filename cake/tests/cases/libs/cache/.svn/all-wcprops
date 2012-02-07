@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache
+END
+xcache.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache/xcache.test.php
+END
+._file.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache/._file.test.php
+END
+._memcache.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache/._memcache.test.php
+END
+file.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache/file.test.php
+END
+._apc.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache/._apc.test.php
+END
+memcache.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache/memcache.test.php
+END
+apc.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache/apc.test.php
+END
+._xcache.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/cake/tests/cases/libs/cache/._xcache.test.php
+END

@@ -1,0 +1,1 @@
+<?php echo '{"prodtags":'.$javascript->Object($prodtags).'}'; ?>

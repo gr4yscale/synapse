@@ -1,0 +1,21 @@
+.homeHeaders .x-panel-header{height: 26px; padding-top: 10px; text-align: center; font-size: 15px;}
+
+.homeQuickList .x-grid3-row td {font:normal 15px arial,tahoma,helvetica,sans-serif; line-height:18px;vertical-align:top;padding-left:8px;padding-right:1px; color: #222222;}
+
+.homeQuickList .x-grid3-row{border:0 none;width:100%;}
+
+.quotefinder .x-panel-header{background:transparent url(/js/ext-2.2/resources/images/default/panel/white-top-bottom.gif) repeat-x right -3px -1px;height: 23px; text-align: left;border-bottom: 1px solid #939599;overflow:visible;padding-top: 8px; padding-left: 12px;}
+
+.quoteGrid .x-grid3-header{padding-left: 5px;}
+.quoteGrid .x-grid3-row{padding-left: 5px;}
+
+.icon-mail {
+	background-image:url(/img/silk_icons/email.png) ! important;
+}
+
+.icon-details {
+	background-image:url(/img/silk_icons/information.png) ! important;
+}
+
+.contactDetailsLabel{color:#626262;font-size:14px;}
+.contactDetailsLabelVal{color:#000000;font-size:14px;}

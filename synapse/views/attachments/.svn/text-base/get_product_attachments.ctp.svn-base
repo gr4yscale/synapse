@@ -1,0 +1,1 @@
+<?php echo '{"attachments":'.$javascript->Object($attachments).'}'; ?>

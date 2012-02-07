@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/synapse/!svn/ver/1/cake/console/libs/tasks
+END
+._test.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/synapse/!svn/ver/1/cake/console/libs/tasks/._test.php
+END
+plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/synapse/!svn/ver/1/cake/console/libs/tasks/plugin.php
+END
+._controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/console/libs/tasks/._controller.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/cake/console/libs/tasks/model.php
+END
+project.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/1/cake/console/libs/tasks/project.php
+END
+db_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/cake/console/libs/tasks/db_config.php
+END
+extract.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/1/cake/console/libs/tasks/extract.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/synapse/!svn/ver/1/cake/console/libs/tasks/view.php
+END
+._plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/synapse/!svn/ver/1/cake/console/libs/tasks/._plugin.php
+END
+._model.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/1/cake/console/libs/tasks/._model.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/synapse/!svn/ver/1/cake/console/libs/tasks/test.php
+END
+._project.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/cake/console/libs/tasks/._project.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/cake/console/libs/tasks/controller.php
+END
+._db_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/synapse/!svn/ver/1/cake/console/libs/tasks/._db_config.php
+END
+._extract.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/cake/console/libs/tasks/._extract.php
+END
+._view.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/synapse/!svn/ver/1/cake/console/libs/tasks/._view.php
+END

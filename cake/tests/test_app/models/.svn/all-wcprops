@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/synapse/!svn/ver/1/cake/tests/test_app/models
+END
+._behaviors
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/cake/tests/test_app/models/._behaviors
+END
+._datasources
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/tests/test_app/models/._datasources
+END

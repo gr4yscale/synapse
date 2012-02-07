@@ -1,0 +1,1 @@
+<?php echo '{"prodcats":'.$javascript->Object($prodcats).'}'; ?>

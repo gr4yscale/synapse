@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo
+END
+dbo_adodb.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/dbo_adodb.test.php
+END
+._dbo_mssql.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/._dbo_mssql.test.php
+END
+dbo_mssql.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/dbo_mssql.test.php
+END
+._dbo_mysql.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/._dbo_mysql.test.php
+END
+._dbo_oracle.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/._dbo_oracle.test.php
+END
+._dbo_postgres.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/._dbo_postgres.test.php
+END
+dbo_mysql.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/dbo_mysql.test.php
+END
+dbo_oracle.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/dbo_oracle.test.php
+END
+._dbo_adodb.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/._dbo_adodb.test.php
+END
+dbo_postgres.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/dbo_postgres.test.php
+END

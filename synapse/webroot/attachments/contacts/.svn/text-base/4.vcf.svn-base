@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Lu;Johnson
+FN:Johnson Lu
+ORG:Changshu Tongrun Auto Accessory Co., Ltd
+NOTE;ENCODING=QUOTED-PRINTABLE:=0D=0A
+TEL;WORK;VOICE:0512-52343388 Ext: 2255
+TEL;WORK;VOICE:0512-52342255
+TEL;CELL;VOICE:13901575209
+TEL;WORK;FAX:0512-52343399
+ADR;WORK:;;Changshu Jack Factory ADD: New Long Teng Industrial Park, Changshu Economic Development Zone;Jiangsu;;;China
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:Changshu Jack Factory ADD: New Long Teng Industrial Park, Changshu Economic =
+Development Zone=0D=0AJiangsu=0D=0AChina
+URL;WORK:http://www.tongrun.net
+EMAIL;PREF;INTERNET:lu@tongrun.net
+REV:20081031T190605Z
+END:VCARD

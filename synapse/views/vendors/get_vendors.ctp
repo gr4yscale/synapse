@@ -1,0 +1,1 @@
+<?php echo '{"vendors":'.$javascript->Object($vendors).'}'; ?>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/tmp/cache
+END
+._models
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/tmp/cache/._models
+END
+._views
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/tmp/cache/._views
+END
+._persistent
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/cake/console/libs/templates/skel/tmp/cache/._persistent
+END

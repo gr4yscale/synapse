@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter
+END
+._ext-base.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter/._ext-base.js
+END
+._jquery-bridge.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter/._jquery-bridge.js
+END
+ext-base.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter/ext-base.js
+END
+jquery-bridge.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter/jquery-bridge.js
+END
+._prototype-bridge.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter/._prototype-bridge.js
+END
+._yui-bridge.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter/._yui-bridge.js
+END
+prototype-bridge.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter/prototype-bridge.js
+END
+yui-bridge.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/adapter/yui-bridge.js
+END

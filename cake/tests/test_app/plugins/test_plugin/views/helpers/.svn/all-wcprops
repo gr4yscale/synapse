@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/helpers
+END
+._test_plugin_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/synapse/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/helpers/._test_plugin_helper.php
+END
+._test_plugin_other_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/synapse/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/helpers/._test_plugin_other_helper.php
+END
+test_plugin_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/synapse/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/helpers/test_plugin_helper.php
+END
+test_plugin_other_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/synapse/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/helpers/test_plugin_other_helper.php
+END

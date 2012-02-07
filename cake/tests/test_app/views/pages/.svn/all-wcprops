@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/synapse/!svn/ver/1/cake/tests/test_app/views/pages
+END
+._home.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/tests/test_app/views/pages/._home.ctp
+END
+._empty
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/synapse/!svn/ver/1/cake/tests/test_app/views/pages/._empty
+END
+home.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/tests/test_app/views/pages/home.ctp
+END
+empty
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/cake/tests/test_app/views/pages/empty
+END

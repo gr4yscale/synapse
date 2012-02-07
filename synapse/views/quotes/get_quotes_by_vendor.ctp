@@ -1,0 +1,1 @@
+<?php echo '{"total":' . $total . ', "success":' . $success . ', "quotes":' . $javascript->Object($quotes) . '}'; ?>

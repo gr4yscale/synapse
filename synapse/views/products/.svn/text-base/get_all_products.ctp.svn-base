@@ -1,0 +1,1 @@
+<?php echo '{"total":'.$total.', "products":'.$javascript->Object($products).'}'; ?>

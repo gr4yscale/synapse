@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/synapse/!svn/ver/1/www/views/specs
+END
+._get_specs_search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/www/views/specs/._get_specs_search.ctp
+END
+._delete.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/synapse/!svn/ver/1/www/views/specs/._delete.ctp
+END
+._get_specs_for_product.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/www/views/specs/._get_specs_for_product.ctp
+END
+._update.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/synapse/!svn/ver/1/www/views/specs/._update.ctp
+END
+get_specs_search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/synapse/!svn/ver/1/www/views/specs/get_specs_search.ctp
+END
+delete.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/synapse/!svn/ver/1/www/views/specs/delete.ctp
+END
+get_specs_for_product.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/synapse/!svn/ver/1/www/views/specs/get_specs_for_product.ctp
+END
+update.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/synapse/!svn/ver/1/www/views/specs/update.ctp
+END
+._add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/www/views/specs/._add.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/synapse/!svn/ver/1/www/views/specs/add.ctp
+END

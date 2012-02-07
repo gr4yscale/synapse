@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/synapse/!svn/ver/1/www/views/contacts
+END
+get_contact.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/39/www/views/contacts/get_contact.ctp
+END
+._get_contacts_for_vendor.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/synapse/!svn/ver/1/www/views/contacts/._get_contacts_for_vendor.ctp
+END
+get_contacts_for_vendor.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/synapse/!svn/ver/1/www/views/contacts/get_contacts_for_vendor.ctp
+END
+update.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/synapse/!svn/ver/41/www/views/contacts/update.ctp
+END

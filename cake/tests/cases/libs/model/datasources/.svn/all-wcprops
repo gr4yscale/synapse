@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources
+END
+._dbo
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/._dbo
+END
+._dbo_source.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/._dbo_source.test.php
+END
+dbo_source.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo_source.test.php
+END

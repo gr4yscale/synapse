@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form
+END
+BasicForm.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/BasicForm.js
+END
+._TextField.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._TextField.js
+END
+._VTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._VTypes.js
+END
+._NumberField.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._NumberField.js
+END
+HtmlEditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/HtmlEditor.js
+END
+RadioGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/RadioGroup.js
+END
+._FieldSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._FieldSet.js
+END
+._TimeField.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._TimeField.js
+END
+._CheckboxGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._CheckboxGroup.js
+END
+._Form.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._Form.js
+END
+DateField.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/DateField.js
+END
+._BasicForm.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._BasicForm.js
+END
+Field.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/Field.js
+END
+._TriggerField.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._TriggerField.js
+END
+Checkbox.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/Checkbox.js
+END
+VTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/VTypes.js
+END
+._TextArea.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._TextArea.js
+END
+._Action.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._Action.js
+END
+Radio.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/Radio.js
+END
+._DateField.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._DateField.js
+END
+Combo.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/Combo.js
+END
+FieldSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/FieldSet.js
+END
+._Field.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._Field.js
+END
+Form.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/Form.js
+END
+TriggerField.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/TriggerField.js
+END
+._Hidden.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._Hidden.js
+END
+._Radio.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._Radio.js
+END
+._Combo.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._Combo.js
+END
+TextArea.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/TextArea.js
+END
+Action.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/Action.js
+END
+Label.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/Label.js
+END
+._HtmlEditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._HtmlEditor.js
+END
+._RadioGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._RadioGroup.js
+END
+TextField.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/TextField.js
+END
+Hidden.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/Hidden.js
+END
+._Label.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._Label.js
+END
+NumberField.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/NumberField.js
+END
+TimeField.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/TimeField.js
+END
+CheckboxGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/CheckboxGroup.js
+END
+._Checkbox.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/source/widgets/form/._Checkbox.js
+END

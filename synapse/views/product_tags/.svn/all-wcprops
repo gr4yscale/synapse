@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/synapse/!svn/ver/1/www/views/product_tags
+END
+._get_product_tags.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/www/views/product_tags/._get_product_tags.ctp
+END
+._assign_product_tag.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/www/views/product_tags/._assign_product_tag.ctp
+END
+get_product_tags.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/www/views/product_tags/get_product_tags.ctp
+END
+._get_tags_search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/synapse/!svn/ver/1/www/views/product_tags/._get_tags_search.ctp
+END
+._unassign_product_tag.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/www/views/product_tags/._unassign_product_tag.ctp
+END
+assign_product_tag.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/www/views/product_tags/assign_product_tag.ctp
+END
+get_tags_search.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/www/views/product_tags/get_tags_search.ctp
+END
+unassign_product_tag.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/www/views/product_tags/unassign_product_tag.ctp
+END

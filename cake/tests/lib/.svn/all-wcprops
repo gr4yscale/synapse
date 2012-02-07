@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/synapse/!svn/ver/1/cake/tests/lib
+END
+simpletest.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/synapse/!svn/ver/1/cake/tests/lib/simpletest.php
+END
+cli_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/synapse/!svn/ver/1/cake/tests/lib/cli_reporter.php
+END
+cake_web_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/synapse/!svn/ver/1/cake/tests/lib/cake_web_test_case.php
+END
+._xdebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/cake/tests/lib/._xdebug.php
+END
+._code_coverage_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/synapse/!svn/ver/1/cake/tests/lib/._code_coverage_manager.php
+END
+cake_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/cake/tests/lib/cake_test_case.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/cake/tests/lib/footer.php
+END
+._cake_test_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/synapse/!svn/ver/1/cake/tests/lib/._cake_test_model.php
+END
+._cake_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/synapse/!svn/ver/1/cake/tests/lib/._cake_reporter.php
+END
+._header.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/cake/tests/lib/._header.php
+END
+._cli_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/cake/tests/lib/._cli_reporter.php
+END
+._simpletest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/synapse/!svn/ver/1/cake/tests/lib/._simpletest.php
+END
+._cake_web_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/synapse/!svn/ver/1/cake/tests/lib/._cake_web_test_case.php
+END
+cake_test_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/synapse/!svn/ver/1/cake/tests/lib/cake_test_fixture.php
+END
+test_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/synapse/!svn/ver/1/cake/tests/lib/test_manager.php
+END
+._cake_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/synapse/!svn/ver/1/cake/tests/lib/._cake_test_case.php
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/synapse/!svn/ver/1/cake/tests/lib/content.php
+END
+._footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/synapse/!svn/ver/1/cake/tests/lib/._footer.php
+END
+xdebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/cake/tests/lib/xdebug.php
+END
+code_coverage_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/synapse/!svn/ver/1/cake/tests/lib/code_coverage_manager.php
+END
+cake_test_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/synapse/!svn/ver/1/cake/tests/lib/cake_test_model.php
+END
+cake_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/synapse/!svn/ver/1/cake/tests/lib/cake_reporter.php
+END
+._cake_test_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/synapse/!svn/ver/1/cake/tests/lib/._cake_test_fixture.php
+END
+._test_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/cake/tests/lib/._test_manager.php
+END
+._content.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/synapse/!svn/ver/1/cake/tests/lib/._content.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/synapse/!svn/ver/1/cake/tests/lib/header.php
+END

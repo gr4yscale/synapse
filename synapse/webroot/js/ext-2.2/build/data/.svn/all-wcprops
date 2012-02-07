@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data
+END
+._SimpleStore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._SimpleStore-min.js
+END
+XmlReader-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/XmlReader-min.js
+END
+JsonStore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/JsonStore-min.js
+END
+._MemoryProxy-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._MemoryProxy-min.js
+END
+._DataProxy-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._DataProxy-min.js
+END
+JsonReader-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/JsonReader-min.js
+END
+DataReader-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/DataReader-min.js
+END
+Store-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/Store-min.js
+END
+Connection-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/Connection-min.js
+END
+Tree-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/Tree-min.js
+END
+._XmlReader-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._XmlReader-min.js
+END
+ArrayReader-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/ArrayReader-min.js
+END
+._JsonStore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._JsonStore-min.js
+END
+GroupingStore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/GroupingStore-min.js
+END
+._Store-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._Store-min.js
+END
+SortTypes-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/SortTypes-min.js
+END
+DataField-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/DataField-min.js
+END
+._ArrayReader-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._ArrayReader-min.js
+END
+._StoreMgr-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._StoreMgr-min.js
+END
+._ScriptTagProxy-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._ScriptTagProxy-min.js
+END
+HttpProxy-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/HttpProxy-min.js
+END
+._GroupingStore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._GroupingStore-min.js
+END
+._SortTypes-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._SortTypes-min.js
+END
+._DataField-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._DataField-min.js
+END
+._Record-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._Record-min.js
+END
+._HttpProxy-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._HttpProxy-min.js
+END
+StoreMgr-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/StoreMgr-min.js
+END
+ScriptTagProxy-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/ScriptTagProxy-min.js
+END
+SimpleStore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/SimpleStore-min.js
+END
+._JsonReader-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._JsonReader-min.js
+END
+._DataReader-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._DataReader-min.js
+END
+MemoryProxy-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/MemoryProxy-min.js
+END
+DataProxy-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/DataProxy-min.js
+END
+._Tree-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._Tree-min.js
+END
+._Connection-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/._Connection-min.js
+END
+Record-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/build/data/Record-min.js
+END

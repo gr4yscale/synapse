@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js
+END
+Reminder.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/Reminder.js
+END
+._ListStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._ListStore.js
+END
+._TaskWindow.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._TaskWindow.js
+END
+Exporter.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/Exporter.js
+END
+._Templates.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._Templates.js
+END
+ListSelector.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/ListSelector.js
+END
+._DateTimeField.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._DateTimeField.js
+END
+._Importer.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._Importer.js
+END
+._ext-config.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._ext-config.js
+END
+TextDate.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/TextDate.js
+END
+._TaskGrid.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._TaskGrid.js
+END
+._data.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._data.js
+END
+SelectBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/SelectBox.js
+END
+TaskWindow.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/TaskWindow.js
+END
+Importer.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/Importer.js
+END
+ext-config.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/ext-config.js
+END
+._SelectBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._SelectBox.js
+END
+._ListTree.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._ListTree.js
+END
+TaskGrid.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/TaskGrid.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/data.js
+END
+._SwitchButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._SwitchButton.js
+END
+._TreeSelector.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._TreeSelector.js
+END
+._ListLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._ListLoader.js
+END
+TaskStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/TaskStore.js
+END
+columns.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/columns.js
+END
+._Reminder.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._Reminder.js
+END
+._Exporter.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._Exporter.js
+END
+ListStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/ListStore.js
+END
+._ListSelector.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._ListSelector.js
+END
+ListTree.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/ListTree.js
+END
+._TaskStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._TaskStore.js
+END
+SwitchButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/SwitchButton.js
+END
+._columns.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._columns.js
+END
+Templates.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/Templates.js
+END
+._TextDate.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/._TextDate.js
+END
+DateTimeField.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/DateTimeField.js
+END
+TreeSelector.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/TreeSelector.js
+END
+ListLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/synapse/!svn/ver/1/www/webroot/js/ext-2.2/air/samples/tasks/js/ListLoader.js
+END
