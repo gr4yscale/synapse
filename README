@@ -1,0 +1,14 @@
+This was a web application I started developing using CakePHP and ExtJS.  Used the ajile library (http://ajile.net/) to import and load javascript dynamically.  For the ExtJS stuff I created a custom theme that looked sort of "Apple/OS X-ish."  I ran out of time to work on this project, but decided to put it up on github anyways.
+
+I threw all of the CakePHP and ExtJS libs on here, but the directories with the code relevant to the app can be found here:
+
+https://github.com/gr4yscale/synapse/tree/master/synapse/webroot/js
+
+https://github.com/gr4yscale/synapse/tree/master/synapse/models
+
+https://github.com/gr4yscale/synapse/tree/master/synapse/views
+
+https://github.com/gr4yscale/synapse/tree/master/synapse/controllers
+
+
+The app isn't hosted anywhere, but you can find a screenshot here:
